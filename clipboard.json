@@ -1,0 +1,6 @@
+{"envs":[
+        {"boot": 60, "name": "Uninfected", "trigger": "clipboard", "timeout": 240, "ext": "txt", "malware": ""},
+        {"boot": 60, "name": "Evrial", "trigger": "clipboard", "timeout": 240, "ext": "txt", "malware": "evrial.exe"},
+        {"boot": 60, "name": "Sodinokibi", "trigger": "clipboard", "timeout": 240, "ext": "txt", "malware": "sodinokibi.exe"},
+        {"boot": 60, "name": "InnfiRAT", "trigger": "clipboard", "timeout": 240, "ext": "txt", "malware": "nvidiadriver.exe"}
+]}
