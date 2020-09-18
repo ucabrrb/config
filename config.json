@@ -1,6 +1,6 @@
 {"envs":[
-        {"boot": 60, "name": "Uninfected", "trigger": "idle", "timeout": 240, "ext": "txt", "malware": ""},
-        {"boot": 60, "name": "Evrial", "trigger": "idle", "timeout": 240, "ext": "txt", "malware": "evrial.exe"},
-        {"boot": 60, "name": "Sodinokibi", "trigger": "idle", "timeout": 240, "ext": "txt", "malware": "sodinokibi.exe"},
-        {"boot": 60, "name": "InnfiRAT", "trigger": "idle", "timeout": 240, "ext": "txt", "malware": "nvidiadriver.exe"}
+        {"boot": 60, "name": "Uninfected", "trigger": "usb", "timeout": 240, "ext": "txt", "malware": ""},
+        {"boot": 60, "name": "Evrial", "trigger": "usb", "timeout": 240, "ext": "txt", "malware": "evrial.exe"},
+        {"boot": 60, "name": "Sodinokibi", "trigger": "usb", "timeout": 240, "ext": "txt", "malware": "sodinokibi.exe"},
+        {"boot": 60, "name": "InnfiRAT", "trigger": "usb", "timeout": 240, "ext": "txt", "malware": "nvidiadriver.exe"}
 ]}
